@@ -1,0 +1,17 @@
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Application\bin\Debug\net8.0\MockTest.Application.deps.json
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Application\bin\Debug\net8.0\MockTest.Application.dll
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Application\bin\Debug\net8.0\MockTest.Application.pdb
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Application\bin\Debug\net8.0\MockTest.Models.dll
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Application\bin\Debug\net8.0\MockTest.Repository.dll
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Application\bin\Debug\net8.0\MockTest.Models.pdb
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Application\bin\Debug\net8.0\MockTest.Repository.pdb
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Application\obj\Debug\net8.0\MockTest.Application.csproj.AssemblyReference.cache
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Application\obj\Debug\net8.0\MockTest.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Application\obj\Debug\net8.0\MockTest.Application.AssemblyInfoInputs.cache
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Application\obj\Debug\net8.0\MockTest.Application.AssemblyInfo.cs
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Application\obj\Debug\net8.0\MockTest.Application.csproj.CoreCompileInputs.cache
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Application\obj\Debug\net8.0\MockTest.8062CFAF.Up2Date
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Application\obj\Debug\net8.0\MockTest.Application.dll
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Application\obj\Debug\net8.0\refint\MockTest.Application.dll
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Application\obj\Debug\net8.0\MockTest.Application.pdb
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Application\obj\Debug\net8.0\ref\MockTest.Application.dll

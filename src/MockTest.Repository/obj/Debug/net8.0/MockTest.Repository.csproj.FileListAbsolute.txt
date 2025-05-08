@@ -1,0 +1,15 @@
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Repository\bin\Debug\net8.0\MockTest.Repository.deps.json
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Repository\bin\Debug\net8.0\MockTest.Repository.dll
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Repository\bin\Debug\net8.0\MockTest.Repository.pdb
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Repository\bin\Debug\net8.0\MockTest.Models.dll
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Repository\bin\Debug\net8.0\MockTest.Models.pdb
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Repository\obj\Debug\net8.0\MockTest.Repository.csproj.AssemblyReference.cache
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Repository\obj\Debug\net8.0\MockTest.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Repository\obj\Debug\net8.0\MockTest.Repository.AssemblyInfoInputs.cache
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Repository\obj\Debug\net8.0\MockTest.Repository.AssemblyInfo.cs
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Repository\obj\Debug\net8.0\MockTest.Repository.csproj.CoreCompileInputs.cache
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Repository\obj\Debug\net8.0\MockTest.D36E2522.Up2Date
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Repository\obj\Debug\net8.0\MockTest.Repository.dll
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Repository\obj\Debug\net8.0\refint\MockTest.Repository.dll
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Repository\obj\Debug\net8.0\MockTest.Repository.pdb
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Repository\obj\Debug\net8.0\ref\MockTest.Repository.dll

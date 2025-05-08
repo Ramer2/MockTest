@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BtYCPFS3USC6Ij1wmG7QIsqRTZZ6Jt6FVI7MNDYfHGo=",
+  "Source": "MockTest.RESTController",
+  "BasePath": "_content/MockTest.RESTController",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

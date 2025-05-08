@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MockTest.Models/1.0.0": {
+        "runtime": {
+          "MockTest.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MockTest.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Models\bin\Debug\net8.0\MockTest.Models.deps.json
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Models\bin\Debug\net8.0\MockTest.Models.dll
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Models\bin\Debug\net8.0\MockTest.Models.pdb
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Models\obj\Debug\net8.0\MockTest.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Models\obj\Debug\net8.0\MockTest.Models.AssemblyInfoInputs.cache
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Models\obj\Debug\net8.0\MockTest.Models.AssemblyInfo.cs
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Models\obj\Debug\net8.0\MockTest.Models.csproj.CoreCompileInputs.cache
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Models\obj\Debug\net8.0\MockTest.Models.dll
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Models\obj\Debug\net8.0\refint\MockTest.Models.dll
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Models\obj\Debug\net8.0\MockTest.Models.pdb
+C:\Users\sisoe\RiderProjects\MockTest\src\MockTest.Models\obj\Debug\net8.0\ref\MockTest.Models.dll
